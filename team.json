@@ -1,0 +1,32 @@
+{
+  "session": "2025-2026",
+  "members": [
+    {
+      "id": 1,
+      "name": "Sohail Kakar",
+      "position": "President",
+      "photo": "assets/team/placeholder.jpg",
+      "email": "bds.uet.official@gmail.com",
+      "linkedin": "",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Vice President Name",
+      "position": "Vice President",
+      "photo": "assets/team/placeholder.jpg",
+      "email": "",
+      "linkedin": "",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "General Secretary Name",
+      "position": "General Secretary",
+      "photo": "assets/team/placeholder.jpg",
+      "email": "",
+      "linkedin": "",
+      "order": 3
+    }
+  ]
+}
