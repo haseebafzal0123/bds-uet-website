@@ -5,28 +5,55 @@
       "id": 1,
       "name": "Sohail Kakar",
       "position": "President",
-      "photo": "assets/team/placeholder.jpg",
+      "photo": "assets/team/sohail-kakar.jpg",
       "email": "bds.uet.official@gmail.com",
       "linkedin": "",
       "order": 1
     },
     {
       "id": 2,
-      "name": "Vice President Name",
+      "name": "Ariba Rauf",
       "position": "Vice President",
-      "photo": "assets/team/placeholder.jpg",
+      "photo": "assets/team/ariba-rauf.jpg",
       "email": "",
       "linkedin": "",
       "order": 2
     },
     {
       "id": 3,
-      "name": "General Secretary Name",
+      "name": "Abubakar Yousaf",
       "position": "General Secretary",
-      "photo": "assets/team/placeholder.jpg",
+      "photo": "assets/team/abubakar-yousaf.jpg",
       "email": "",
       "linkedin": "",
       "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Malaika Noor",
+      "position": "Media Secretary",
+      "photo": "assets/team/malaika-noor.jpg",
+      "email": "",
+      "linkedin": "",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Ali Hamza",
+      "position": "Finance Secretary",
+      "photo": "assets/team/ali-hamza.jpg",
+      "email": "",
+      "linkedin": "",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Amara Abbas",
+      "position": "Blood Consultant",
+      "photo": "assets/team/amara-abbas.jpg",
+      "email": "",
+      "linkedin": "",
+      "order": 6
     }
   ]
 }
